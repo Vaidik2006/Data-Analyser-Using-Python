@@ -45,7 +45,7 @@ pip install -r requirements.txt
 ###  3. Select Columns:
      - Select the appropriate category column and numeric column from the dropdown lists.
      - Choose the aggregation methods for both the category and numeric columns.
-###4. Select Graph Type:
+### 4. Select Graph Type:
      - Choose the type of graph (Bar, Line, Pie) to visualize the aggregated data.
 ### 5. Clean and Analyze:
      - Optionally, check the "Clean Data" box to remove rows with missing values.
